@@ -4,4 +4,5 @@
 
 ![Portfolio](https://i.postimg.cc/B6jdGfDZ/Screenshot-11.png)
 
-
+## Description
+Full Stack React Portfolio Website, using sanity-io, a content management system that allows you to manage text, images, and other data using APIs.
