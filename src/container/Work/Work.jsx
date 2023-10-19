@@ -41,7 +41,7 @@ export const Work = (item) => {
         My <span>Portfolio </span>
       </h2>
       <div className="app__work-filter">
-        {['Travel App', 'Ecommerce App', 'Fitness App', 'RealEstate App', 'All'].map(
+        {['Travel App', 'Ecommerce App', 'Fitness App', 'Eventful', 'All'].map(
           (item, index) => (
             <div
               key={index}

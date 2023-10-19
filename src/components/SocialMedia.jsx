@@ -21,7 +21,7 @@ const SocialMedia = () => {
         </a>
       </div>
       <div>
-        <a href="#">
+        <a href="https://www.linkedin.com/in/robert-njenga-812023291">
           <BsLinkedin />
         </a>
       </div>
